@@ -44,4 +44,6 @@ export default {
     },
   },
 };
+
+// Laura i Javi updating
 </script>
