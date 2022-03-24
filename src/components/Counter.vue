@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-100 mb-4 p-2 rounded shadow">
+<div class="bg-gray-100 mb-4 p-2 rounded shadow">
     <div>
       The count is:
       <span
@@ -22,7 +22,7 @@
     >
       +1
     </button>
-  </div>
+  </div>  
 </template>
 <script>
 export default {
